@@ -4,9 +4,9 @@ This is a book created from markdown and executable code.
 
 See @knuth84 for additional discussion of literate programming.
 
-De auteur van dit boek, Saskia Manuela-Bergmans, is geboren in Zeist op 20 april 1992.
+De auteur van dit boek, Saskia Manuela-Bergmans, is geboren in Zeist.
 
-![Fotoshoot foto](images/Saskia%20Manuela-Bergmans%20-%20UB%20medewerkers%20(2024)-8.jpg){width="282"}
+![Fotoshoot photo, made by Maartje ter Horst](images/Saskia%20Manuela-Bergmans%20-%20UB%20medewerkers%20(2024)-8.jpg){width="265"}
 
 ### Inhoudsopgave
 

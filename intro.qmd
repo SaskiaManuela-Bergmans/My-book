@@ -13,3 +13,19 @@ De auteur van dit boek, Saskia Manuela-Bergmans, is geboren in Zeist.
 Hoofdstuk 1 - Op de UU
 
 Hoodstuk 2 - In de UB
+
+::: {.panel-tabset}
+#### Tab number 1
+
+Publiceren van dit file doe je door:
+
+git add .
+
+git commit -m "your note"
+
+git push
+
+#### Tab number 2
+Dit soort interactiviteit is leuk.
+
+:::

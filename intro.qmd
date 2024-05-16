@@ -1,21 +1,20 @@
 # Introduction
 
-This is a book created from markdown and executable code.
-
-See @knuth84 for additional discussion of literate programming.
-
 De auteur van dit boek, Saskia Manuela-Bergmans, is geboren in Zeist.
 
-![Fotoshoot photo, made by Maartje ter Horst](images/Saskia%20Manuela-Bergmans%20-%20UB%20medewerkers%20(2024)-8.jpg){width="265"}
+![\
+Fotoshoot photo, made by Maartje ter Horst](images/Saskia%20Manuela-Bergmans%20-%20UB%20medewerkers%20(2024)-8.jpg){width="239"}
 
-### Inhoudsopgave
+### Levensloop
 
-Hoofdstuk 1 - Op de UU
+Hoofdstuk 1 - Studeren aan de UU
 
-Hoodstuk 2 - In de UB
+Hoodstuk 2 - Werken voor de UU
 
-::: {.panel-tabset}
-#### Tab number 1
+**Tabs test**
+
+::: panel-tabset
+#### Tab 1
 
 Publiceren van dit file doe je door:
 
@@ -25,7 +24,15 @@ git commit -m "your note"
 
 git push
 
-#### Tab number 2
-Dit soort interactiviteit is leuk.
+#### Tab 2
 
+Deze interactiviteit is leuk.
 :::
+
+------------------------------------------------------------------------
+
+\<details\>\<summary\>Click for more information\</summary\>
+\<div\>This is a book created from markdown and executable code.
+
+See @knuth84 for additional discussion of literate programming.\</div\>
+\</details\>

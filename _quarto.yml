@@ -1,0 +1,25 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "My book"
+  author: "Saskia Manuela-Bergmans"
+  date: "2024/05/16"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - part: "Section 1"
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format: 
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+

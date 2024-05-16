@@ -31,8 +31,10 @@ Deze interactiviteit is leuk.
 
 ------------------------------------------------------------------------
 
-\<details\>\<summary\>Click for more information\</summary\>
-\<div\>This is a book created from markdown and executable code.
+<details open>
+<summary>Click for more information</summary>
+<p>This is a book created from markdown and executable code.
+See @knuth84 for additional discussion of literate programming.
+</p> 
+</details>
 
-See @knuth84 for additional discussion of literate programming.\</div\>
-\</details\>

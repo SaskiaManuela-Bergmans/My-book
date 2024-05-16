@@ -14,7 +14,7 @@
     "href": "intro.html",
     "title": "1  Introduction",
     "section": "",
-    "text": "De auteur van dit boek, Saskia Manuela-Bergmans, is geboren in Zeist.\n\n\n\n\nFotoshoot photo, made by Maartje ter Horst\n\n\n\n1.0.1 Levensloop\nHoofdstuk 1 - Studeren aan de UU\nHoodstuk 2 - Werken voor de UU\nTabs test\n\nTab 1Tab 2\n\n\nPubliceren van dit file doe je door:\ngit add .\ngit commit -m “your note”\ngit push\n\n\nDeze interactiviteit is leuk.\n\n\n\n\nThis is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "text": "De auteur van dit boek, Saskia Manuela-Bergmans, is geboren in Zeist.\n\n\n\n\nFotoshoot photo, made by Maartje ter Horst\n\n\n\n1.0.1 Levensloop\nHoofdstuk 1 - Studeren aan de UU\nHoodstuk 2 - Werken voor de UU\nTabs test\n\nTab 1Tab 2\n\n\nPubliceren van dit file doe je door:\ngit add .\ngit commit -m “your note”\ngit push\n\n\nDeze interactiviteit is leuk.\n\n\n\n\n\n\nClick for more information\n\n\nThis is a book created from markdown and executable code. See Knuth (1984) for additional discussion of literate programming.\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
     ]
